@@ -1,0 +1,353 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    max-width: 960px;
+    min-width: 0px;
+}
+
+#header_nav {
+    float: left;
+    height: 59px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-width: 0px;
+    background-color: rgb(55, 71, 90);
+}
+
+#logo {
+    float: left;
+    width: auto;
+    max-width: 398.984375px;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 24px;
+    left: 4.594778%;
+    z-index: 1;
+}
+
+#logoText {
+    float: left;
+    font-size: 28px;
+    width: 50.3125%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 1.974284%;
+    margin-top: 15px;
+    clear: none;
+    min-height: 27px;
+    color: rgb(161, 180, 203);
+}
+
+#left_pane {
+    float: left;
+    height: 747px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 293.625px;
+    position: relative;
+    margin-right: 0%;
+}
+
+#manu_holder {
+    float: left;
+    height: 541px;
+    margin-left: 2.899288%;
+    margin-top: 175px;
+    clear: none;
+    width: 283.734375px;
+    margin-right: 0px;
+}
+
+#student_button {
+    float: left;
+    height: 57px;
+    margin-left: 0.99337748%;
+    margin-top: 0px;
+    clear: none;
+    width: 99.005741%;
+    border-bottom-color: rgb(213, 213, 213);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+#text {
+    float: left;
+    font-size: 24px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 200;
+    line-height: 1em;
+    margin-left: 5.454974%;
+    margin-top: 17px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(55, 71, 90);
+}
+
+#text:hover {
+    color: rgb(87, 114, 145);
+    font-weight: 300;
+}
+
+#text:active {
+    color: rgb(27, 36, 47);
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 28px;
+    height: auto;
+    margin-left: 2.960868%;
+    margin-top: 14px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#teacher_button {
+    float: left;
+    height: 57px;
+    margin-left: 0.98959063%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.005741%;
+    border-bottom-color: rgb(213, 213, 213);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-right: 0%;
+}
+
+#text1:hover {
+    color: rgb(87, 114, 145);
+    font-weight: 300;
+}
+
+#text1:active {
+    color: rgb(27, 36, 47);
+}
+
+#text1 {
+    float: left;
+    font-size: 24px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 6.072607%;
+    margin-top: 15px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(55, 71, 90);
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 2.528412%;
+    margin-top: 14px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    max-width: 28px;
+}
+
+#classes_button {
+    float: left;
+    height: 57px;
+    margin-left: 0.94451613%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.005741%;
+    border-bottom-color: rgb(213, 213, 213);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-right: 0%;
+}
+
+#text2:hover {
+    color: rgb(87, 114, 145);
+    font-weight: 300;
+}
+
+#text2:active {
+    color: rgb(27, 36, 47);
+}
+
+#text2 {
+    float: left;
+    font-size: 24px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 4.629892%;
+    margin-top: 15px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(55, 71, 90);
+}
+
+#teacherAtend_button {
+    float: left;
+    height: 57px;
+    margin-left: 0.98580645%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.005741%;
+    border-bottom-color: rgb(213, 213, 213);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-right: 0%;
+}
+
+#text3:hover {
+    color: rgb(87, 114, 145);
+    font-weight: 300;
+}
+
+#text3:active {
+    color: rgb(27, 36, 47);
+}
+
+#text3 {
+    float: left;
+    font-size: 24px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 5.499948%;
+    margin-top: 17px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(55, 71, 90);
+}
+
+#studentAttend_button {
+    float: left;
+    height: 57px;
+    margin-left: 1.115623%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.006624%;
+    border-bottom-color: rgb(213, 213, 213);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-right: 0%;
+}
+
+#text4:hover {
+    color: rgb(87, 114, 145);
+    font-weight: 300;
+}
+
+#text4:active {
+    color: rgb(27, 36, 47);
+}
+
+#text4 {
+    float: left;
+    font-size: 24px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 4.608487%;
+    margin-top: 17px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(55, 71, 90);
+}
+
+#image2 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 3.498071%;
+    margin-top: 13.296875px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    max-width: 28px;
+}
+
+#image3 {
+    float: left;
+    width: auto;
+    max-width: 28px;
+    height: auto;
+    margin-left: 2.950683%;
+    margin-top: 12px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#image4 {
+    float: left;
+    width: auto;
+    max-width: 28px;
+    height: auto;
+    margin-left: 3.331248%;
+    margin-top: 13px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#summary_box {
+    float: left;
+    height: 747px;
+    margin-left: 1.663439%;
+    margin-top: 0px;
+    clear: none;
+    width: 67.750126%;
+    border-left-color: rgb(229, 229, 229);
+    border-left-width: 1px;
+    border-left-style: solid;
+    margin-right: 0%;
+}
+
+#mainParent {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.998372%;
+}
+
+#logedin_user_title {
+    float: left;
+    height: 34px;
+    margin-left: 26.202799%;
+    margin-top: 11px;
+    clear: none;
+    width: 20.104167%;
+    margin-right: 0%;
+}
+
+#seperater {
+    float: left;
+    height: 33px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.998372%;
+    background-color: rgb(213, 213, 213);
+}
+

@@ -1,0 +1,863 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    max-width: 960px;
+    min-width: 0px;
+}
+
+#header_nav {
+    float: left;
+    height: 59px;
+    margin-left: 0.04970838%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-width: 0px;
+    background-color: rgb(55, 71, 90);
+}
+
+#logoText {
+    float: left;
+    font-size: 24px;
+    width: 39.282874%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 7.867179%;
+    margin-top: 18px;
+    clear: none;
+    min-height: 27px;
+    color: rgb(161, 180, 203);
+}
+
+#mainParent1 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.998343%;
+}
+
+#logedin_user_title {
+    float: left;
+    height: 34px;
+    margin-left: 25.714144%;
+    margin-top: 11px;
+    clear: none;
+    width: 112.3125px;
+    margin-right: 0%;
+}
+
+#seperater {
+    float: left;
+    height: 33px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.998343%;
+    background-color: rgb(213, 213, 213);
+}
+
+#box {
+    float: left;
+    height: 34px;
+    margin-left: 1.686771%;
+    margin-top: 11px;
+    clear: none;
+    width: 93.25px;
+    border-left-color: rgb(87, 114, 145);
+    border-left-width: 1px;
+    border-left-style: solid;
+    margin-right: 0%;
+}
+
+#text {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 10.65665%;
+    margin-top: 11px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(182, 202, 226);
+}
+
+#text1 {
+    float: none;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 9px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(182, 202, 226);
+    margin-right: auto;
+}
+
+#mainParent {
+    float: left;
+    height: 808px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.998343%;
+    margin-right: 0%;
+}
+
+#left_pane {
+    float: left;
+    height: 747px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 293.625px;
+    position: relative;
+    margin-right: 0%;
+}
+
+#logo {
+    float: left;
+    width: auto;
+    max-width: 398.984375px;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 24px;
+    left: 4.594778%;
+    z-index: 1;
+}
+
+#manu_holder {
+    float: left;
+    height: 541px;
+    margin-left: 2.899288%;
+    margin-top: 175px;
+    clear: none;
+    width: 285.125px;
+    margin-right: 0px;
+}
+
+#student_button {
+    float: left;
+    height: 57px;
+    margin-left: 0.99337748%;
+    margin-top: 0px;
+    clear: none;
+    width: 99.00263%;
+    border-bottom-color: rgb(213, 213, 213);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+#image {
+    float: left;
+    width: auto;
+    max-width: 20px;
+    height: auto;
+    margin-left: 4.01602%;
+    margin-top: 17px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#text2:hover {
+    color: rgb(87, 114, 145);
+    font-weight: 300;
+}
+
+#text2:active {
+    color: rgb(27, 36, 47);
+}
+
+#text2 {
+    float: left;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 200;
+    line-height: 1em;
+    margin-left: 4.388697%;
+    margin-top: 17px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(55, 71, 90);
+}
+
+#classes_button {
+    float: left;
+    height: 57px;
+    margin-left: 0.94256905%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.00263%;
+    border-bottom-color: rgb(213, 213, 213);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-right: 0%;
+}
+
+#image1 {
+    float: left;
+    width: auto;
+    height: auto;
+    margin-left: 4.555568%;
+    margin-top: 17.296875px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    max-width: 20px;
+}
+
+#text3:hover {
+    color: rgb(87, 114, 145);
+    font-weight: 300;
+}
+
+#text3:active {
+    color: rgb(27, 36, 47);
+}
+
+#text3 {
+    float: left;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 3.559907%;
+    margin-top: 18px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(55, 71, 90);
+}
+
+#teacherAtend_button {
+    float: left;
+    height: 57px;
+    margin-left: 0.98092942%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.00263%;
+    border-bottom-color: rgb(213, 213, 213);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-right: 0%;
+}
+
+#image2 {
+    float: left;
+    width: auto;
+    max-width: 20px;
+    height: auto;
+    margin-left: 4.366448%;
+    margin-top: 17px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#text4:hover {
+    color: rgb(87, 114, 145);
+    font-weight: 300;
+}
+
+#text4:active {
+    color: rgb(27, 36, 47);
+}
+
+#text4 {
+    float: left;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 4.054956%;
+    margin-top: 18px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(55, 71, 90);
+}
+
+#box1 {
+    float: left;
+    height: 128px;
+    margin-left: 27.84375px;
+    margin-top: 12.203125px;
+    clear: both;
+    width: 576.109375px;
+    margin-right: 0%;
+}
+
+#box2 {
+    float: left;
+    height: 115px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 134.28125px;
+    background-color: rgb(182, 202, 226);
+}
+
+#image4 {
+    float: none;
+    width: auto;
+    max-width: 134.28125px;
+    height: auto;
+    margin-left: auto;
+    margin-top: 22px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#text7 {
+    float: none;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    margin-right: auto;
+    color: rgb(55, 71, 90);
+}
+
+#summary_box {
+    float: left;
+    height: 800px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 68.862156%;
+    border-left-color: rgb(229, 229, 229);
+    border-left-width: 1px;
+    border-left-style: solid;
+    margin-right: 0%;
+}
+
+#text10 {
+    float: left;
+    font-size: 24px;
+    width: 31.247138%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 4.294493%;
+    margin-top: 31.296875px;
+    clear: both;
+    min-height: 37px;
+    color: rgb(42, 53, 66);
+    margin-right: 0%;
+}
+
+#text6 {
+    float: left;
+    font-size: 24px;
+    width: 37.267141%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 4.294493%;
+    margin-top: 50.796875px;
+    clear: none;
+    min-height: 37px;
+    color: rgb(42, 53, 66);
+    margin-right: 0%;
+}
+
+#box3 {
+    float: left;
+    height: 115px;
+    margin-left: 4.773571%;
+    margin-top: 0px;
+    clear: none;
+    width: 134.296875px;
+    margin-right: 0%;
+    background-color: rgb(182, 202, 226);
+}
+
+#text8 {
+    float: none;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    margin-right: auto;
+    color: rgb(55, 71, 90);
+}
+
+#image5 {
+    float: none;
+    width: auto;
+    max-width: 134.296875px;
+    height: auto;
+    margin-left: auto;
+    margin-top: 22px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#box4 {
+    float: left;
+    height: 115px;
+    margin-left: 4.404752%;
+    margin-top: 0px;
+    clear: none;
+    width: 22.642851%;
+    margin-right: 0%;
+    background-color: rgb(182, 202, 226);
+}
+
+#text9 {
+    float: none;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 20px;
+    clear: none;
+    min-height: 0px;
+    margin-right: auto;
+    color: rgb(55, 71, 90);
+}
+
+#image6 {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 22px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#logo1 {
+    float: left;
+    width: auto;
+    max-width: 5.965005%;
+    height: auto;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 13px;
+    left: 1.236082%;
+    z-index: 1;
+}
+
+#box5 {
+    float: left;
+    height: 211px;
+    margin-left: 4.294493%;
+    margin-top: 13.078125px;
+    clear: both;
+    width: 576.109375px;
+    border-top-color: rgb(87, 114, 145);
+    border-right-color: rgb(87, 114, 145);
+    border-bottom-color: rgb(87, 114, 145);
+    border-left-color: rgb(87, 114, 145);
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+#box2:hover {
+    background-color: rgb(151, 175, 204);
+}
+
+#box3:hover {
+    background-color: rgb(151, 175, 204);
+}
+
+#box4:hover {
+    background-color: rgb(151, 175, 204);
+}
+
+#box6 {
+    float: left;
+    height: 37px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 574.109375px;
+    background-color: rgb(87, 114, 145);
+}
+
+#text15 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 2.272542%;
+    margin-top: 10px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(229, 229, 229);
+}
+
+#box8 {
+    float: left;
+    height: 32px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 98.83351%;
+    border-top-color: rgb(189, 189, 189);
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+#text23 {
+    float: none;
+    font-size: 11px;
+    width: 71.541376%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 15px;
+    clear: none;
+    min-height: 0px;
+    margin-right: auto;
+    color: rgb(125, 125, 125);
+}
+
+#text19 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 27px;
+    margin-left: 1.045097%;
+    margin-top: 9px;
+    clear: both;
+    min-height: 0px;
+}
+
+.support {
+	float: left;
+	font-size: 1em;
+	width: auto;
+	height: auto;
+	text-align: left;
+	font-weight: normal;
+	line-height: 27px;
+	margin-left: 1.045097%;
+	clear: both;
+	min-height: 0px;
+}
+
+#text16 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 8.551289%;
+    margin-top: 10px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(229, 229, 229);
+    margin-right: 0%;
+}
+
+#teacherAtend_button1 {
+    float: left;
+    height: 57px;
+    margin-left: 0.69048663%;
+    margin-top: 0.5px;
+    clear: both;
+    width: 99.00574%;
+    border-bottom-color: rgb(213, 213, 213);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    margin-right: 0%;
+}
+
+#image3 {
+    float: left;
+    width: auto;
+    max-width: 20px;
+    height: auto;
+    margin-left: 4.366448%;
+    margin-top: 17px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#text5:hover {
+    color: rgb(87, 114, 145);
+    font-weight: 300;
+}
+
+#text5:active {
+    color: rgb(27, 36, 47);
+}
+
+#text5 {
+    float: left;
+    font-size: 18px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 4.054956%;
+    margin-top: 18px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(55, 71, 90);
+}
+
+#text20 {
+    float: left;
+    font-size: 1em;
+    width: 26.99834%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 27px;
+    margin-left: 5.802466%;
+    margin-top: 9px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 0%;
+}
+
+#formgroup {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 11.724304%;
+    margin-top: 24.296875px;
+    clear: none;
+    width: auto;
+    min-height: auto;
+    margin-right: 0%;
+}
+
+#select {
+    float: none;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+}
+
+#text11 {
+    float: none;
+    font-size: 12px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+    color: rgb(56, 56, 56);
+}
+
+#text12 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 7.085191%;
+    margin-top: 24.296875px;
+    clear: none;
+}
+
+#text13 {
+    float: left;
+    font-size: 12px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -3.610074%;
+    margin-top: 28px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(56, 56, 56);
+}
+
+#text14 {
+    float: left;
+    font-size: 16px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -10.015665%;
+    margin-top: 46px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(56, 56, 56);
+    margin-right: 0%;
+}
+
+#text18 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -44.114525%;
+    margin-top: 11px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(229, 229, 229);
+    margin-right: 0%;
+}
+
+#box7 {
+    float: left;
+    height: 135px;
+    margin-left: 10.505402%;
+    margin-top: 9px;
+    clear: none;
+    width: 22.992135%;
+    margin-right: 0%;
+}
+
+#text17 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 65.000136%;
+    margin-top: 10px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(182, 202, 226);
+}
+
+#text21 {
+    float: left;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 27px;
+    margin-left: 12.576545%;
+    margin-top: 9px;
+    clear: none;
+    min-height: 0px;
+    margin-right: 0%;
+}
+
+#input1 {
+    float: none;
+    height: 46px;
+    font-size: 1em;
+    margin-left: auto;
+    margin-top: 613px;
+    clear: none;
+    width: 18.768526%;
+    margin-right: auto;
+}
+
+#formgroup1 {
+    float: left;
+    height: auto;
+    display: block;
+    text-align: left;
+    margin-left: 22.180986%;
+    margin-top: 45.625px;
+    clear: both;
+    width: auto;
+    min-height: auto;
+}
+
+#input {
+    float: none;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: inline-block;
+    width: auto;
+}
+
+#text22 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0em;
+    padding-bottom: 0em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    display: inline-block;
+}

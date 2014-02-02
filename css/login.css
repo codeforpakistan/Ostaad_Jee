@@ -1,0 +1,264 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 960px;
+    max-width: 1100px;
+    min-width: 0px;
+    background-color: rgb(230, 235, 241);
+}
+
+#box {
+    float: left;
+    height: 57px;
+    margin-left: 0%;
+    margin-top: 1px;
+    clear: none;
+    width: 100%;
+    min-width: 0px;
+    background-color: rgb(55, 71, 90);
+}
+
+#image {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 17px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#box1 {
+    float: none;
+    height: 396px;
+    margin-left: auto;
+    margin-top: 199px;
+    clear: none;
+    width: 64.251302%;
+    margin-right: auto;
+}
+
+#formgroup {
+    float: left;
+    height: 53px;
+    display: block;
+    text-align: left;
+    margin-left: 0.00659609%;
+    margin-top: 0px;
+    clear: none;
+    width: 99.931633%;
+    margin-right: 0%;
+}
+
+#select {
+    float: none;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    margin-top: 4px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#text1 {
+    float: none;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+    color: rgb(87, 114, 145);
+}
+
+#formgroup1 {
+    float: left;
+    height: 45.375px;
+    display: block;
+    text-align: left;
+    margin-left: 0.07255697%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.931633%;
+    margin-right: 0%;
+}
+
+#textinput {
+    float: none;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#text2 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+    min-height: 22.375px;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: none;
+}
+
+#formgroup2 {
+    float: left;
+    height: 45.375px;
+    display: block;
+    text-align: left;
+    margin-left: 0.00329804%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.931633%;
+    margin-right: 0%;
+}
+
+#textinput1 {
+    float: none;
+    height: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+}
+
+#text3 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+}
+
+#input {
+    float: left;
+    height: 31px;
+    font-size: 1em;
+    margin-left: 77.302859%;
+    margin-top: 8px;
+    clear: both;
+    width: 22.669557%;
+    margin-right: 0%;
+}
+
+#text {
+    float: left;
+    font-size: 1.5em;
+    width: 39.166667%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 2.394206%;
+    margin-top: 17px;
+    clear: none;
+    min-height: 27px;
+    color: rgb(161, 180, 203);
+}
+
+#box2 {
+    float: left;
+    height: auto;
+    margin-left: 10.097274%;
+    margin-top: 43px;
+    clear: none;
+    width: 45.194549%;
+}
+
+#box5 {
+    float: left;
+    height: 182.75px;
+    margin-left: 3.263965%;
+    margin-top: 12px;
+    clear: none;
+    width: 207.09375072890626px;
+}
+
+#text4 {
+    float: left;
+    font-size: 20px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: 500;
+    line-height: 1em;
+    margin-left: 2.45345%;
+    margin-top: 11.75px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(87, 114, 145);
+}
+
+#box6 {
+    float: left;
+    height: 127px;
+    margin-left: 2.446148%;
+    margin-top: 17.625px;
+    clear: both;
+    width: 87.856882%;
+    background-color: rgb(159, 159, 159);
+}
+
+#box3 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 99.994394%;
+}
+
+#box4 {
+    float: left;
+    height: auto;
+    margin-left: 2.074678%;
+    margin-top: 19px;
+    clear: none;
+    width: 34.691965%;
+}
+
